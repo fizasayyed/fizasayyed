@@ -13,12 +13,7 @@ A student currently pursuing MCA. I'm from Maharashtra, India, living in Ahmedna
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=fizasayyed&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/FizaSayyed7" target="blank"><img src="https://img.shields.io/twitter/follow/FizaSayyed7?logo=twitter&style=for-the-badge" alt="fizasayyed7" /></a> </p>
-
-<!-- - 📫 How to reach me **vaishnaviphirkoj27@gmail.com** -->
-<br><br>
 <hr>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/FizaSayyed7" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="FizaSayyed7" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
