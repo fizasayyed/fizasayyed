@@ -8,10 +8,10 @@ A student currently pursuing MCA. I'm from Maharashtra, India, living in Ahmedna
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizasayyed&label=Profile%20views&color=0e75b6&style=flat" alt="fizasayyed" /> </p>
 <p>
 <a align= "center" href="https://github.com/fizasayyed">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=fizasayyed&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D">
+<img alt= "stats card" height="150px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=fizasayyed&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/5270/screenshots/975617/media/e313c147194d07be90743260faddb6b3.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=fizasayyed&count_private=true&theme=blueberry&show_icons=true" />
+<img height="150px" width="400" src="https://github-readme-stats.vercel.app/api?username=fizasayyed&count_private=true&theme=blueberry&show_icons=true" />
 
 <hr>
 
