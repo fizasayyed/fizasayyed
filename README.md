@@ -9,7 +9,7 @@ A student currently pursuing MCA. I'm from Maharashtra, India, living in Ahmedna
 <p>
 <a align= "center" href="https://github.com/fizasayyed">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fizasayyed&theme=radical">
-<img align="right" height="400" width="500" src="https://cdn.dribbble.com/users/5270/screenshots/975617/media/e313c147194d07be90743260faddb6b3.gif" /> </a>
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/5270/screenshots/975617/media/e313c147194d07be90743260faddb6b3.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=fizasayyed&count_private=true&theme=radical&show_icons=true" />
 
