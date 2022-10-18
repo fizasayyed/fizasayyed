@@ -19,7 +19,7 @@ A student currently pursuing MCA. I'm from Maharashtra, India, living in Ahmedna
 <p align="center">
 <a href="https://twitter.com/FizaSayyed7" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="FizaSayyed7" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/fiza-sayyed-53142018b/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="fiza sayyed" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/fizaa.s_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="fizaa.s_" height="50" width="50" /></a>
+<a href="https://instagram.com/_fiza.sayyed_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="fizaa.s_" height="50" width="50" /></a>
 </p>
 
 <hr>
