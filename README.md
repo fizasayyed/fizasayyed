@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Fiza Sayyed</h1>
 <h5 align="center">
-A Software Engineer working in Blockchain. I'm from Maharashtra, India, living in Ahmednagar. While being a computer nerd, I'm also a Gamerhead.
+A Software Engineer working in Blockchain. I'm from Maharashtra, India, living in Ahmednagar.
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizasayyed&label=Profile%20views&color=0e75b6&style=flat" alt="fizasayyed" /> </p>
 <p>
