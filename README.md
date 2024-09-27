@@ -28,6 +28,7 @@ class Skills extends SoftwareEngineer {
   blockchain = ['Solidity'];
 }
 
+```
 class Socials extends SoftwareDeveloper {
   twitter   = '<a href="https://twitter.com/fizasayyed7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>';
   linkedin  = '<a href="https://linkedin.com/in/fizasayyed7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>';
@@ -36,4 +37,4 @@ class Socials extends SoftwareDeveloper {
   email     = '<a href="mailto:fizasayyed.se@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>';
 }
 
-```
+
