@@ -17,12 +17,11 @@ class CurrentlyLearning extends SoftwareEngineer {
 }
 
 class Skills extends SoftwareEngineer {
-  languages = ['JavaScript', 'TypeScript', 'Python', 'PHP'];
+  languages = ['JavaScript', 'Python'];
   frontend  = ['React', 'Next.js', 'HTML5', 'CSS3', 'Tailwind CSS', 'Bootstrap', 'GSAP', 'Three.js'];
-  backend   = ['Node.js', 'Express', 'PHP'];
-  databases = ['MongoDB', 'MySQL', 'Redis'];
+  backend   = ['Node.js', 'Express'];
+  databases = ['MongoDB', 'MySQL'];
   cloud     = ['AWS'];
-  tools     = ['Git', 'Docker', 'Postman'];
   design    = ['Blender'];
   metaverse = ['Unreal Engine', 'Unity'];
   blockchain = ['Solidity'];
