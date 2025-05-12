@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fizasayyed/fizasayyed/blob/main/slouch-potato.png" />
+  <img src="https://ibb.co/ZzZ8v4Mp" />
 </p>
 
 ```js
@@ -9,7 +9,7 @@ class Bio extends SoftwareEngineer {
   name     = 'Fiza Sayyed';
   title    = 'Software Engineer';
   location = 'Bangalore, India';
-  uptime   = '24 yrs 6 months 10 days';
+  uptime   = '24 yrs 0 months 2 days';
 }
 
 class CurrentlyLearning extends SoftwareEngineer {
