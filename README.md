@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/ZzZ8v4Mp" />
+  <img src="https://ibb.co/ZzZ8v4Mp](https://i.ibb.co/r2W6q8wR/Image-20250512-120852.jpg" />
 </p>
 
 ```js
