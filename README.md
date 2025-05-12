@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/ZzZ8v4Mp](https://i.ibb.co/r2W6q8wR/Image-20250512-120852.jpg" />
+  <a href="https://ibb.co/ZzZ8v4Mp"><img src="https://i.ibb.co/r2W6q8wR/Image-20250512-120852.jpg" alt="Image-20250512-120852" border="0" /></a>
 </p>
 
 ```js
@@ -33,6 +33,6 @@ class Skills extends SoftwareEngineer {
 <a href="https://linkedin.com/in/fizasayyed7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/_fiza.sayyed_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://twitter.com/fizasayyed7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://github.com/fizasayyed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<!-- <a href="https://github.com/fizasayyed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> -->
 </p>
 
